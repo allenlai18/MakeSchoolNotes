@@ -1,1 +1,4 @@
 # MakeSchoolNotes
+
+
+core data
